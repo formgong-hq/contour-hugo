@@ -1,0 +1,7 @@
+baseURL = "/"
+title = "Contour"
+theme = "contour"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
